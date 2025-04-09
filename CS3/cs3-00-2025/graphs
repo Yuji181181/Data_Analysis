@@ -1,0 +1,6 @@
+digraph {
+	node [shape=square style=filled]
+	start -> state1 [label=0.8]
+	start -> state2 [label=0.2]
+	start [color=pink shape=circle]
+}
