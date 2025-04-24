@@ -1,0 +1,13 @@
+# Column description:
+#  pref: Prefecture
+#  pop: Total population
+#  birth: Number of live births
+#  death: Number of deaths
+pref,pop,birth,death
+Ibaraki,2852000,17389,32931
+Tochigi,1921000,11808,21702
+Gunma,1927000,11660,23286
+Saitama,7340000,47328,70758
+Chiba,6275000,40168,62118
+Tokyo,14010000,99661,121219
+Kanagawa,9236000,60865,84601
