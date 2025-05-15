@@ -1,0 +1,124 @@
+,Country,Element,Unit,Value
+0,New Zealand,Yield,hg/ha,89596.0
+1,Netherlands,Yield,hg/ha,88212.0
+2,Ireland,Yield,hg/ha,87379.0
+3,Belgium,Yield,hg/ha,84434.0
+4,United Kingdom of Great Britain and Northern Ireland,Yield,hg/ha,77546.0
+5,France,Yield,hg/ha,68427.0
+6,Egypt,Yield,hg/ha,66895.0
+7,Germany,Yield,hg/ha,66737.0
+8,Saudi Arabia,Yield,hg/ha,65334.0
+9,Denmark,Yield,hg/ha,62348.0
+10,Chile,Yield,hg/ha,62137.0
+11,Luxembourg,Yield,hg/ha,60389.0
+12,Switzerland,Yield,hg/ha,56419.0
+13,Mexico,Yield,hg/ha,54373.0
+14,China,Yield,hg/ha,54163.0
+15,Czechia,Yield,hg/ha,53896.0
+16,Croatia,Yield,hg/ha,53765.0
+17,Namibia,Yield,hg/ha,53061.0
+18,Zambia,Yield,hg/ha,52808.0
+19,Hungary,Yield,hg/ha,50955.0
+20,Malta,Yield,hg/ha,50796.0
+21,Bulgaria,Yield,hg/ha,48122.0
+22,Romania,Yield,hg/ha,48022.0
+23,Slovakia,Yield,hg/ha,47795.0
+24,Austria,Yield,hg/ha,46846.0
+25,Serbia,Yield,hg/ha,45742.0
+26,Slovenia,Yield,hg/ha,43815.0
+27,Sweden,Yield,hg/ha,43498.0
+28,Uzbekistan,Yield,hg/ha,41260.0
+29,Poland,Yield,hg/ha,40626.0
+30,Bosnia and Herzegovina,Yield,hg/ha,40196.0
+31,Spain,Yield,hg/ha,38717.0
+32,Oman,Yield,hg/ha,38525.0
+33,Italy,Yield,hg/ha,38057.0
+34,Ukraine,Yield,hg/ha,37242.0
+35,South Africa,Yield,hg/ha,37111.0
+36,Albania,Yield,hg/ha,36927.0
+37,Lithuania,Yield,hg/ha,36731.0
+38,Republic of Korea,Yield,hg/ha,36558.0
+39,Japan,Yield,hg/ha,36097.0
+40,Mali,Yield,hg/ha,35419.0
+41,Latvia,Yield,hg/ha,34314.0
+42,North Macedonia,Yield,hg/ha,33965.0
+43,India,Yield,hg/ha,33705.0
+44,Lebanon,Yield,hg/ha,33671.0
+45,Canada,Yield,hg/ha,32152.0
+46,Montenegro,Yield,hg/ha,32088.0
+47,United States of America,Yield,hg/ha,31999.0
+48,Argentina,Yield,hg/ha,31806.0
+49,Bangladesh,Yield,hg/ha,31301.0
+50,Republic of Moldova,Yield,hg/ha,31251.0
+51,Tajikistan,Yield,hg/ha,30483.0
+52,Kuwait,Yield,hg/ha,30000.0
+53,Venezuela (Bolivarian Republic of),Yield,hg/ha,29724.0
+54,Niger,Yield,hg/ha,29615.0
+55,Azerbaijan,Yield,hg/ha,29383.0
+56,Estonia,Yield,hg/ha,29128.0
+57,Pakistan,Yield,hg/ha,28505.0
+58,Armenia,Yield,hg/ha,28240.0
+59,Finland,Yield,hg/ha,27823.0
+60,Nepal,Yield,hg/ha,27573.0
+61,Belarus,Yield,hg/ha,27502.0
+62,Turkey,Yield,hg/ha,27440.0
+63,Russian Federation,Yield,hg/ha,27250.0
+64,Iraq,Yield,hg/ha,27205.0
+65,Greece,Yield,hg/ha,26526.0
+66,Sudan,Yield,hg/ha,26327.0
+67,Brazil,Yield,hg/ha,26238.0
+68,Other non-specified areas,Yield,hg/ha,25826.0
+69,Morocco,Yield,hg/ha,25752.0
+70,Kenya,Yield,hg/ha,25280.0
+71,Portugal,Yield,hg/ha,25069.0
+72,Qatar,Yield,hg/ha,25000.0
+73,Georgia,Yield,hg/ha,24734.0
+74,Kyrgyzstan,Yield,hg/ha,24268.0
+75,Ethiopia,Yield,hg/ha,24236.0
+76,Madagascar,Yield,hg/ha,24006.0
+77,Uruguay,Yield,hg/ha,23656.0
+78,Chad,Yield,hg/ha,22440.0
+79,Palestine,Yield,hg/ha,22168.0
+80,Afghanistan,Yield,hg/ha,22100.0
+81,Iran (Islamic Republic of),Yield,hg/ha,21642.0
+82,Guatemala,Yield,hg/ha,21566.0
+83,Mauritania,Yield,hg/ha,21566.0
+84,Cyprus,Yield,hg/ha,21278.0
+85,Norway,Yield,hg/ha,21107.0
+86,Zimbabwe,Yield,hg/ha,20010.0
+87,Syrian Arab Republic,Yield,hg/ha,20000.0
+88,Bhutan,Yield,hg/ha,19439.0
+89,Australia,Yield,hg/ha,19178.0
+90,Algeria,Yield,hg/ha,19076.0
+91,Eswatini,Yield,hg/ha,18146.0
+92,Myanmar,Yield,hg/ha,18124.0
+93,Tunisia,Yield,hg/ha,17711.0
+94,Ecuador,Yield,hg/ha,17142.0
+95,Paraguay,Yield,hg/ha,16800.0
+96,Colombia,Yield,hg/ha,16355.0
+97,Yemen,Yield,hg/ha,16349.0
+98,Peru,Yield,hg/ha,15405.0
+99,Uganda,Yield,hg/ha,15383.0
+100,Bolivia (Plurinational State of),Yield,hg/ha,15117.0
+101,Democratic People's Republic of Korea,Yield,hg/ha,14665.0
+102,Burundi,Yield,hg/ha,14092.0
+103,New Caledonia,Yield,hg/ha,13864.0
+104,Israel,Yield,hg/ha,13327.0
+105,Cameroon,Yield,hg/ha,13293.0
+106,Democratic Republic of the Congo,Yield,hg/ha,12844.0
+107,Mongolia,Yield,hg/ha,12727.0
+108,Malawi,Yield,hg/ha,12314.0
+109,Kazakhstan,Yield,hg/ha,12281.0
+110,Mozambique,Yield,hg/ha,11612.0
+111,Jordan,Yield,hg/ha,11451.0
+112,Eritrea,Yield,hg/ha,11306.0
+113,United Republic of Tanzania,Yield,hg/ha,11092.0
+114,Thailand,Yield,hg/ha,11062.0
+115,Angola,Yield,hg/ha,10935.0
+116,Turkmenistan,Yield,hg/ha,10678.0
+117,Lesotho,Yield,hg/ha,10429.0
+118,Rwanda,Yield,hg/ha,10106.0
+119,Nigeria,Yield,hg/ha,7895.0
+120,Libya,Yield,hg/ha,7728.0
+121,Honduras,Yield,hg/ha,5577.0
+122,Somalia,Yield,hg/ha,3994.0
