@@ -1,0 +1,370 @@
+Country,Element,Unit,Value
+Afghanistan,Area harvested,ha,1635000.0
+Afghanistan,Yield,hg/ha,22100.0
+Afghanistan,Production,tonnes,3613300.0
+Albania,Area harvested,ha,65072.0
+Albania,Yield,hg/ha,36927.0
+Albania,Production,tonnes,240294.0
+Algeria,Area harvested,ha,2087003.0
+Algeria,Yield,hg/ha,19076.0
+Algeria,Production,tonnes,3981219.0
+Angola,Area harvested,ha,2579.0
+Angola,Yield,hg/ha,10935.0
+Angola,Production,tonnes,2820.0
+Argentina,Area harvested,ha,5822173.0
+Argentina,Yield,hg/ha,31806.0
+Argentina,Production,tonnes,18518045.0
+Armenia,Area harvested,ha,66378.0
+Armenia,Yield,hg/ha,28240.0
+Armenia,Production,tonnes,187453.0
+Australia,Area harvested,ha,10919180.0
+Australia,Yield,hg/ha,19178.0
+Australia,Production,tonnes,20941134.0
+Austria,Area harvested,ha,292654.0
+Austria,Yield,hg/ha,46846.0
+Austria,Production,tonnes,1370960.0
+Azerbaijan,Area harvested,ha,677834.0
+Azerbaijan,Yield,hg/ha,29383.0
+Azerbaijan,Production,tonnes,1991683.0
+Bangladesh,Area harvested,ha,351228.0
+Bangladesh,Yield,hg/ha,31301.0
+Bangladesh,Production,tonnes,1099373.0
+Belarus,Area harvested,ha,659861.0
+Belarus,Yield,hg/ha,27502.0
+Belarus,Production,tonnes,1814765.0
+Belgium,Area harvested,ha,195686.0
+Belgium,Yield,hg/ha,84434.0
+Belgium,Production,tonnes,1652249.0
+Bhutan,Area harvested,ha,2130.0
+Bhutan,Yield,hg/ha,19439.0
+Bhutan,Production,tonnes,4141.0
+Bolivia (Plurinational State of),Area harvested,ha,199569.0
+Bolivia (Plurinational State of),Yield,hg/ha,15117.0
+Bolivia (Plurinational State of),Production,tonnes,301689.0
+Bosnia and Herzegovina,Area harvested,ha,73591.0
+Bosnia and Herzegovina,Yield,hg/ha,40196.0
+Bosnia and Herzegovina,Production,tonnes,295810.0
+Brazil,Area harvested,ha,2065254.0
+Brazil,Yield,hg/ha,26238.0
+Brazil,Production,tonnes,5418711.0
+Bulgaria,Area harvested,ha,1212012.0
+Bulgaria,Yield,hg/ha,48122.0
+Bulgaria,Production,tonnes,5832449.0
+Burundi,Area harvested,ha,16145.0
+Burundi,Yield,hg/ha,14092.0
+Burundi,Production,tonnes,22751.0
+Cameroon,Area harvested,ha,706.0
+Cameroon,Yield,hg/ha,13293.0
+Cameroon,Production,tonnes,938.0
+Canada,Area harvested,ha,9881000.0
+Canada,Yield,hg/ha,32152.0
+Canada,Production,tonnes,31769200.0
+Chad,Area harvested,ha,801.0
+Chad,Yield,hg/ha,22440.0
+Chad,Production,tonnes,1798.0
+Chile,Area harvested,ha,236415.0
+Chile,Yield,hg/ha,62137.0
+Chile,Production,tonnes,1469003.0
+China,Area harvested,ha,24268794.0
+China,Yield,hg/ha,54163.0
+China,Production,tonnes,131447224.0
+Other non-specified areas,Area harvested,ha,2604.0
+Other non-specified areas,Yield,hg/ha,25826.0
+Other non-specified areas,Production,tonnes,6724.0
+Colombia,Area harvested,ha,6811.0
+Colombia,Yield,hg/ha,16355.0
+Colombia,Production,tonnes,11139.0
+Croatia,Area harvested,ha,138456.0
+Croatia,Yield,hg/ha,53765.0
+Croatia,Production,tonnes,744405.0
+Cyprus,Area harvested,ha,8485.0
+Cyprus,Yield,hg/ha,21278.0
+Cyprus,Production,tonnes,18054.0
+Czechia,Area harvested,ha,819690.0
+Czechia,Yield,hg/ha,53896.0
+Czechia,Production,tonnes,4417841.0
+Democratic People's Republic of Korea,Area harvested,ha,23867.0
+Democratic People's Republic of Korea,Yield,hg/ha,14665.0
+Democratic People's Republic of Korea,Production,tonnes,35000.0
+Democratic Republic of the Congo,Area harvested,ha,4912.0
+Democratic Republic of the Congo,Yield,hg/ha,12844.0
+Democratic Republic of the Congo,Production,tonnes,6309.0
+Denmark,Area harvested,ha,425806.0
+Denmark,Yield,hg/ha,62348.0
+Denmark,Production,tonnes,2654819.0
+Ecuador,Area harvested,ha,3149.0
+Ecuador,Yield,hg/ha,17142.0
+Ecuador,Production,tonnes,5398.0
+Egypt,Area harvested,ha,1315490.0
+Egypt,Yield,hg/ha,66895.0
+Egypt,Production,tonnes,8800000.0
+Eritrea,Area harvested,ha,25597.0
+Eritrea,Yield,hg/ha,11306.0
+Eritrea,Production,tonnes,28939.0
+Estonia,Area harvested,ha,154579.0
+Estonia,Yield,hg/ha,29128.0
+Estonia,Production,tonnes,450265.0
+Eswatini,Area harvested,ha,393.0
+Eswatini,Yield,hg/ha,18146.0
+Eswatini,Production,tonnes,713.0
+Ethiopia,Area harvested,ha,1748972.0
+Ethiopia,Yield,hg/ha,24236.0
+Ethiopia,Production,tonnes,4238836.0
+Finland,Area harvested,ha,177800.0
+Finland,Yield,hg/ha,27823.0
+Finland,Production,tonnes,494700.0
+France,Area harvested,ha,5231615.0
+France,Yield,hg/ha,68427.0
+France,Production,tonnes,35798234.0
+Georgia,Area harvested,ha,43300.0
+Georgia,Yield,hg/ha,24734.0
+Georgia,Production,tonnes,107100.0
+Germany,Area harvested,ha,3036300.0
+Germany,Yield,hg/ha,66737.0
+Germany,Production,tonnes,20263500.0
+Greece,Area harvested,ha,404490.0
+Greece,Yield,hg/ha,26526.0
+Greece,Production,tonnes,1072940.0
+Guatemala,Area harvested,ha,594.0
+Guatemala,Yield,hg/ha,21566.0
+Guatemala,Production,tonnes,1282.0
+Honduras,Area harvested,ha,2238.0
+Honduras,Yield,hg/ha,5577.0
+Honduras,Production,tonnes,1248.0
+Hungary,Area harvested,ha,1029523.0
+Hungary,Yield,hg/ha,50955.0
+Hungary,Production,tonnes,5245890.0
+India,Area harvested,ha,29580000.0
+India,Yield,hg/ha,33705.0
+India,Production,tonnes,99700000.0
+Iran (Islamic Republic of),Area harvested,ha,6700000.0
+Iran (Islamic Republic of),Yield,hg/ha,21642.0
+Iran (Islamic Republic of),Production,tonnes,14500000.0
+Iraq,Area harvested,ha,1180443.0
+Iraq,Yield,hg/ha,27205.0
+Iraq,Production,tonnes,3211382.0
+Ireland,Area harvested,ha,58000.0
+Ireland,Yield,hg/ha,87379.0
+Ireland,Production,tonnes,506800.0
+Israel,Area harvested,ha,52900.0
+Israel,Yield,hg/ha,13327.0
+Israel,Production,tonnes,70500.0
+Italy,Area harvested,ha,1821725.0
+Italy,Yield,hg/ha,38057.0
+Italy,Production,tonnes,6932943.0
+Japan,Area harvested,ha,211900.0
+Japan,Yield,hg/ha,36097.0
+Japan,Production,tonnes,764900.0
+Jordan,Area harvested,ha,18049.0
+Jordan,Yield,hg/ha,11451.0
+Jordan,Production,tonnes,20668.0
+Kazakhstan,Area harvested,ha,11354380.0
+Kazakhstan,Yield,hg/ha,12281.0
+Kazakhstan,Production,tonnes,13944108.0
+Kenya,Area harvested,ha,133147.0
+Kenya,Yield,hg/ha,25280.0
+Kenya,Production,tonnes,336600.0
+Kuwait,Area harvested,ha,3.0
+Kuwait,Yield,hg/ha,30000.0
+Kuwait,Production,tonnes,9.0
+Kyrgyzstan,Area harvested,ha,253804.0
+Kyrgyzstan,Yield,hg/ha,24268.0
+Kyrgyzstan,Production,tonnes,615926.0
+Latvia,Area harvested,ha,417200.0
+Latvia,Yield,hg/ha,34314.0
+Latvia,Production,tonnes,1431600.0
+Lebanon,Area harvested,ha,40216.0
+Lebanon,Yield,hg/ha,33671.0
+Lebanon,Production,tonnes,135411.0
+Lesotho,Area harvested,ha,8686.0
+Lesotho,Yield,hg/ha,10429.0
+Lesotho,Production,tonnes,9058.0
+Libya,Area harvested,ha,179558.0
+Libya,Yield,hg/ha,7728.0
+Libya,Production,tonnes,138770.0
+Lithuania,Area harvested,ha,772885.0
+Lithuania,Yield,hg/ha,36731.0
+Lithuania,Production,tonnes,2838899.0
+Luxembourg,Area harvested,ha,12984.0
+Luxembourg,Yield,hg/ha,60389.0
+Luxembourg,Production,tonnes,78409.0
+Madagascar,Area harvested,ha,2634.0
+Madagascar,Yield,hg/ha,24006.0
+Madagascar,Production,tonnes,6322.0
+Malawi,Area harvested,ha,592.0
+Malawi,Yield,hg/ha,12314.0
+Malawi,Production,tonnes,729.0
+Mali,Area harvested,ha,8240.0
+Mali,Yield,hg/ha,35419.0
+Mali,Production,tonnes,29185.0
+Malta,Area harvested,ha,2403.0
+Malta,Yield,hg/ha,50796.0
+Malta,Production,tonnes,12208.0
+Mauritania,Area harvested,ha,3408.0
+Mauritania,Yield,hg/ha,21566.0
+Mauritania,Production,tonnes,7349.0
+Mexico,Area harvested,ha,541345.0
+Mexico,Yield,hg/ha,54373.0
+Mexico,Production,tonnes,2943445.0
+Mongolia,Area harvested,ha,342666.0
+Mongolia,Yield,hg/ha,12727.0
+Mongolia,Production,tonnes,436115.0
+Montenegro,Area harvested,ha,769.0
+Montenegro,Yield,hg/ha,32088.0
+Montenegro,Production,tonnes,2467.0
+Morocco,Area harvested,ha,2842748.0
+Morocco,Yield,hg/ha,25752.0
+Morocco,Production,tonnes,7320620.0
+Mozambique,Area harvested,ha,18176.0
+Mozambique,Yield,hg/ha,11612.0
+Mozambique,Production,tonnes,21105.0
+Myanmar,Area harvested,ha,74142.0
+Myanmar,Yield,hg/ha,18124.0
+Myanmar,Production,tonnes,134372.0
+Namibia,Area harvested,ha,1149.0
+Namibia,Yield,hg/ha,53061.0
+Namibia,Production,tonnes,6094.0
+Nepal,Area harvested,ha,706843.0
+Nepal,Yield,hg/ha,27573.0
+Nepal,Production,tonnes,1949001.0
+Netherlands,Area harvested,ha,111697.0
+Netherlands,Yield,hg/ha,88212.0
+Netherlands,Production,tonnes,985297.0
+New Caledonia,Area harvested,ha,3.0
+New Caledonia,Yield,hg/ha,13864.0
+New Caledonia,Production,tonnes,4.0
+New Zealand,Area harvested,ha,41411.0
+New Zealand,Yield,hg/ha,89596.0
+New Zealand,Production,tonnes,371027.0
+Niger,Area harvested,ha,1623.0
+Niger,Yield,hg/ha,29615.0
+Niger,Production,tonnes,4807.0
+Nigeria,Area harvested,ha,82882.0
+Nigeria,Yield,hg/ha,7895.0
+Nigeria,Production,tonnes,65433.0
+North Macedonia,Area harvested,ha,70987.0
+North Macedonia,Yield,hg/ha,33965.0
+North Macedonia,Production,tonnes,241106.0
+Norway,Area harvested,ha,58512.0
+Norway,Yield,hg/ha,21107.0
+Norway,Production,tonnes,123500.0
+Oman,Area harvested,ha,929.0
+Oman,Yield,hg/ha,38525.0
+Oman,Production,tonnes,3579.0
+Pakistan,Area harvested,ha,8797227.0
+Pakistan,Yield,hg/ha,28505.0
+Pakistan,Production,tonnes,25076149.0
+Palestine,Area harvested,ha,15413.0
+Palestine,Yield,hg/ha,22168.0
+Palestine,Production,tonnes,34167.0
+Paraguay,Area harvested,ha,430000.0
+Paraguay,Yield,hg/ha,16800.0
+Paraguay,Production,tonnes,722400.0
+Peru,Area harvested,ha,126638.0
+Peru,Yield,hg/ha,15405.0
+Peru,Production,tonnes,195088.0
+Poland,Area harvested,ha,2417227.0
+Poland,Yield,hg/ha,40626.0
+Poland,Production,tonnes,9820315.0
+Portugal,Area harvested,ha,27025.0
+Portugal,Yield,hg/ha,25069.0
+Portugal,Production,tonnes,67749.0
+Qatar,Area harvested,ha,6.0
+Qatar,Yield,hg/ha,25000.0
+Qatar,Production,tonnes,15.0
+Republic of Korea,Area harvested,ha,10279.0
+Republic of Korea,Yield,hg/ha,36558.0
+Republic of Korea,Production,tonnes,37577.0
+Republic of Moldova,Area harvested,ha,372076.0
+Republic of Moldova,Yield,hg/ha,31251.0
+Republic of Moldova,Production,tonnes,1162778.0
+Romania,Area harvested,ha,2112307.0
+Romania,Yield,hg/ha,48022.0
+Romania,Production,tonnes,10143671.0
+Russian Federation,Area harvested,ha,26472051.0
+Russian Federation,Yield,hg/ha,27250.0
+Russian Federation,Production,tonnes,72136149.0
+Rwanda,Area harvested,ha,10761.0
+Rwanda,Yield,hg/ha,10106.0
+Rwanda,Production,tonnes,10875.0
+Saudi Arabia,Area harvested,ha,89756.0
+Saudi Arabia,Yield,hg/ha,65334.0
+Saudi Arabia,Production,tonnes,586413.0
+Serbia,Area harvested,ha,643083.0
+Serbia,Yield,hg/ha,45742.0
+Serbia,Production,tonnes,2941601.0
+Slovakia,Area harvested,ha,403372.0
+Slovakia,Yield,hg/ha,47795.0
+Slovakia,Production,tonnes,1927926.0
+Slovenia,Area harvested,ha,27822.0
+Slovenia,Yield,hg/ha,43815.0
+Slovenia,Production,tonnes,121901.0
+Somalia,Area harvested,ha,2586.0
+Somalia,Yield,hg/ha,3994.0
+Somalia,Production,tonnes,1033.0
+South Africa,Area harvested,ha,503350.0
+South Africa,Yield,hg/ha,37111.0
+South Africa,Production,tonnes,1868000.0
+Spain,Area harvested,ha,2063683.0
+Spain,Yield,hg/ha,38717.0
+Spain,Production,tonnes,7989906.0
+Sudan,Area harvested,ha,226000.0
+Sudan,Yield,hg/ha,26327.0
+Sudan,Production,tonnes,595000.0
+Sweden,Area harvested,ha,372500.0
+Sweden,Yield,hg/ha,43498.0
+Sweden,Production,tonnes,1620300.0
+Switzerland,Area harvested,ha,88135.0
+Switzerland,Yield,hg/ha,56419.0
+Switzerland,Production,tonnes,497250.0
+Syrian Arab Republic,Area harvested,ha,600000.0
+Syrian Arab Republic,Yield,hg/ha,20000.0
+Syrian Arab Republic,Production,tonnes,1200000.0
+Tajikistan,Area harvested,ha,255549.0
+Tajikistan,Yield,hg/ha,30483.0
+Tajikistan,Production,tonnes,778986.0
+Thailand,Area harvested,ha,1221.0
+Thailand,Yield,hg/ha,11062.0
+Thailand,Production,tonnes,1351.0
+Tunisia,Area harvested,ha,846939.0
+Tunisia,Yield,hg/ha,17711.0
+Tunisia,Production,tonnes,1500000.0
+Turkey,Area harvested,ha,7288622.0
+Turkey,Yield,hg/ha,27440.0
+Turkey,Production,tonnes,20000000.0
+Turkmenistan,Area harvested,ha,936488.0
+Turkmenistan,Yield,hg/ha,10678.0
+Turkmenistan,Production,tonnes,1000000.0
+Uganda,Area harvested,ha,15340.0
+Uganda,Yield,hg/ha,15383.0
+Uganda,Production,tonnes,23597.0
+Ukraine,Area harvested,ha,6619600.0
+Ukraine,Yield,hg/ha,37242.0
+Ukraine,Production,tonnes,24652840.0
+United Kingdom of Great Britain and Northern Ireland,Area harvested,ha,1748000.0
+United Kingdom of Great Britain and Northern Ireland,Yield,hg/ha,77546.0
+United Kingdom of Great Britain and Northern Ireland,Production,tonnes,13555000.0
+United Republic of Tanzania,Area harvested,ha,94549.0
+United Republic of Tanzania,Yield,hg/ha,11092.0
+United Republic of Tanzania,Production,tonnes,104870.0
+United States of America,Area harvested,ha,16027750.0
+United States of America,Yield,hg/ha,31999.0
+United States of America,Production,tonnes,51286540.0
+Uruguay,Area harvested,ha,186000.0
+Uruguay,Yield,hg/ha,23656.0
+Uruguay,Production,tonnes,440000.0
+Uzbekistan,Area harvested,ha,1311376.0
+Uzbekistan,Yield,hg/ha,41260.0
+Uzbekistan,Production,tonnes,5410760.0
+Venezuela (Bolivarian Republic of),Area harvested,ha,49.0
+Venezuela (Bolivarian Republic of),Yield,hg/ha,29724.0
+Venezuela (Bolivarian Republic of),Production,tonnes,144.0
+Yemen,Area harvested,ha,64530.0
+Yemen,Yield,hg/ha,16349.0
+Yemen,Production,tonnes,105503.0
+Zambia,Area harvested,ha,21675.0
+Zambia,Yield,hg/ha,52808.0
+Zambia,Production,tonnes,114463.0
+Zimbabwe,Area harvested,ha,20734.0
+Zimbabwe,Yield,hg/ha,20010.0
+Zimbabwe,Production,tonnes,41488.0
