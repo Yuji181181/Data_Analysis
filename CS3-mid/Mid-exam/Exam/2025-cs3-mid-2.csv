@@ -1,0 +1,151 @@
+Cust_ID,Area,Client_Type,Annual_Spend,Transactions,Loyalty_Score
+C0001,East,Home Ofice,50547,39,0.16
+C0002,West,Consumer,42181,41,0.18
+C0003,Central,Consumer,75727,44,0.86
+C0004,West,Corporate,57607,36,0.95
+C0005,South,Home Ofice,25698,43,0.37
+C0006,South,Consumer,52237,50,0.27
+C0007,,HomeOffice,42059,54,0.64
+C0008,South,HomeOffice,60229,42,0.41
+C0009,West,Consumer,40490,25,
+C0010,Central,HomeOffice,48623,38,
+C0011,North,Corporate,56060,42,0.72
+C0012,Central,HomeOffice,60389,47,0.66
+C0013,South,HomeOffice,35596,38,0.03
+C0014,South,HomeOffice,45986,48,0.22
+C0015,South,Consumer,44301,39,0.23
+C0016,South,Consmr,42160,55,0.67
+C0017,South,Corporate,71185,34,0.02
+C0018,West,Consumer,54860,42,0.1
+C0019,East,Consumer,34869,31,0.8
+C0020,South,HomeOffice,61014,40,0.18
+C0021,West,HomeOffice,75466,40,0.65
+C0022,North,Consumer,62390,41,0.24
+C0023,South,Corporate,31768,49,0.1
+C0024,East,Consumer,,32,0.24
+C0025,East,HomeOffice,65203,45,0.72
+C0026,North,Consumer,41508,44,
+C0027,South,HomeOffice,55326,32,0.83
+C0028,West,Corporate,,37,0.4
+C0029,,Home Ofice,38877,38,0.67
+C0030,North,Consumer,49286,50,0.2
+C0031,West,Corporate,11105,40,0.29
+C0032,South,Consumer,37707,38,0.9
+C0033,North,Home Ofice,46969,40,0.01
+C0034,West,Corporatte,35027,40,0.09
+C0035,Central,Consumer,69589,42,0.21
+C0036,North,HomeOffice,32838,29,0.03
+C0037,South,Consmr,44719,32,0.18
+C0038,North,HomeOffice,,32,0.58
+C0039,Central,Corporate,67295,33,0.42
+C0040,East,Consumer,32770,49,0.89
+C0041,North,Consumer,63958,43,0.82
+C0042,West,Corporatte,50123,34,0.34
+C0043,North,Home Ofice,38222,33,0.26
+C0044,East,HomeOffice,55545,33,0.38
+C0045,South,Corporate,52389,31,0.59
+C0046,Central,Corporate,42797,34,0.27
+C0047,East,HomeOffice,50838,40,0.62
+C0048,West,Corporatte,45376,42,0.41
+C0049,West,Corporatte,51362,27,0.55
+C0050,South,HomeOffice,57946,46,0.44
+C0051,Central,HomeOffice,69032,33,0.29
+C0052,Central,Consumer,35146,37,0.95
+C0053,West,Consumer,75596,42,0.76
+C0054,East,Corporatte,26575,39,0.14
+C0055,West,HomeOffice,48179,23,0.87
+C0056,West,Consumer,57060,40,0.49
+C0057,North,Consumer,53372,31,0.89
+C0058,,HomeOffice,42528,41,0.8
+C0059,North,Consumer,47503,35,0.43
+C0060,East,Consumer,44084,34,0.02
+C0061,East,HomeOffice,42928,42,0.27
+C0062,South,HomeOffice,60195,46,
+C0063,,HomeOffice,54284,30,0.63
+C0064,East,Consumer,41685,42,0.26
+C0065,South,HomeOffice,60795,39,0.14
+C0066,West,Consumer,53688,36,0.83
+C0067,North,Corporate,59754,43,
+C0068,North,HomeOffice,57556,42,0.53
+C0069,North,HomeOffice,40052,30,0.17
+C0070,Central,Corporatte,43278,35,0.27
+C0071,,HomeOffice,58968,33,0.02
+C0072,South,HomeOffice,57324,29,0.91
+C0073,North,Consumer,49749,31,0.12
+C0074,North,Corporate,51408,47,0.58
+C0075,Central,Consumer,65332,33,0.27
+C0076,Central,Consumer,42901,52,0.55
+C0077,Central,Home Ofice,56565,41,0.65
+C0078,North,Corporate,47574,45,0.83
+C0079,East,Corporatte,47388,37,0.21
+C0080,North,HomeOffice,63185,40,0.01
+C0081,South,Consmr,59905,31,0.14
+C0082,Central,Corporate,59762,36,0.9
+C0083,East,HomeOffice,65666,32,0.87
+C0084,North,Corporate,50252,41,0.6
+C0085,South,Consumer,58183,37,0.6
+C0086,East,HomeOffice,46277,37,0.67
+C0087,Central,Corporate,53890,35,0.18
+C0088,Central,Consumer,48438,45,0.91
+C0089,East,HomeOffice,51164,39,0.42
+C0090,West,Consumer,57142,37,0.38
+C0091,North,Home Ofice,40181,31,0.52
+C0092,Central,Home Ofice,75109,52,0.05
+C0093,Central,Home Ofice,37928,28,0.17
+C0094,West,Corporate,35430,41,0.74
+C0095,Central,Consumer,63897,32,0.08
+C0096,West,Home Ofice,59500,34,0.6
+C0097,West,Corporate,57489,33,0.25
+C0098,East,Home Ofice,57540,43,0.39
+C0099,North,Home Ofice,49853,37,0.29
+C0100,North,Corporatte,39233,38,0.36
+C0101,North,Corporate,50910,39,0.72
+C0102,Central,Corporate,41874,39,0.3
+C0103,East,Corporatte,61701,45,0.57
+C0104,West,Corporate,48235,35,0.48
+C0105,East,Consumer,40094,38,0.66
+C0106,South,HomeOffice,46143,50,0.94
+C0107,East,Home Ofice,54955,42,0.73
+C0108,Central,HomeOffice,43235,32,0.21
+C0109,South,HomeOffice,40133,42,0.03
+C0110,North,Consumer,52924,49,0.26
+C0111,South,HomeOffice,52940,32,0.6
+C0112,South,Home Ofice,43917,35,0.05
+C0113,West,Consumer,44348,37,0.5
+C0114,North,Corporate,,31,0.6
+C0115,Central,Corporatte,32623,32,0.33
+C0116,East,HomeOffice,33110,46,0.77
+C0117,North,HomeOffice,41379,34,0.11
+C0118,South,HomeOffice,47439,44,0.08
+C0119,East,Corporate,53731,44,0.73
+C0120,West,Corporate,67704,35,0.5
+C0121,North,Consmr,60292,41,0.69
+C0122,East,Consmr,48081,39,0.43
+C0123,East,Corporatte,49772,32,0.25
+C0124,North,Home Ofice,37970,40,0.82
+C0125,South,Corporate,49778,52,0.8
+C0126,East,Corporate,46536,44,0.69
+C0127,North,Consmr,53873,41,0.27
+C0128,South,HomeOffice,40073,39,0.59
+C0129,North,HomeOffice,56232,39,0.36
+C0130,West,Consmr,68393,48,0.09
+C0131,East,Corporatte,48695,42,0.92
+C0132,South,Corporate,54821,27,0.14
+C0133,Central,HomeOffice,43235,32,0.21
+C0134,East,Consumer,45185,37,0.45
+C0135,West,HomeOffice,52689,41,0.19
+C0136,East,Consumer,50151,37,0.54
+C0137,West,Corporate,51172,45,0.87
+C0138,Central,HomeOffice,40724,34,0.73
+C0139,East,Corporate,50294,32,0.81
+C0140,Central,HomeOffice,55976,40,0.66
+C0141,Central,Consumer,67414,50,0.69
+C0142,South,Consumer,61511,41,0.85
+C0143,West,Consmr,75838,32,0.25
+C0144,South,Corporate,40792,40,0.49
+C0145,South,Consumer,,28,0.22
+C0146,North,Corporate,52200,34,0.99
+C0147,West,HomeOffice,76278,41,0.94
+C0148,West,Consumer,40300,45,0.04
+C0126,East,Corporate,46536,44,0.69
+C0150,South,Consumer,42807,38,0.93
